@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import argparse, csv, sys
+import argparse, csv
 import logging as log
 
 def main ():
